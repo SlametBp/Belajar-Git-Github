@@ -1,4 +1,5 @@
 # judul
 a. apa
-b. bagaimana
+b. dimana
 c. siapa
+d. bagaimana
