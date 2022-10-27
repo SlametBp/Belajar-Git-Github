@@ -1,0 +1,6 @@
+Kita harus membuat account github terlebih dahulu
+caranya membuat username, memasukkan email address dan membuat password
+kemudian kita akan diminta memverify account dengan cara mengerjakan apa yang diperintahkan
+kemudian kita akan di minta memilih yang free atau yang berbayar
+jika sudah mengisi semua kita pilih submit
+dan kita akan mendapat email untuk verify lagi
