@@ -8,3 +8,6 @@ setelah itu langsung saja kita membuat project baru dalam artian membuat reposit
 setelah itu bisa membuat file baru atau upload file
 filenya bisa file apa saja
 dana lakukan perubahan dengan menggunakan tombol edit disebelah kanan dengan simbol pena
+kita bisa lakukan perubahan lagi
+dan lakukan perubahan lagi tapi jangan lupa mengisi commitnya apa 
+commit jika tidak di isi maka akan di tuliskan secara automatic oleh git hub
