@@ -4,3 +4,7 @@ kemudian kita akan diminta memverify account dengan cara mengerjakan apa yang di
 kemudian kita akan di minta memilih yang free atau yang berbayar
 jika sudah mengisi semua kita pilih submit
 dan kita akan mendapat email untuk verify lagi
+setelah itu langsung saja kita membuat project baru dalam artian membuat repository atau repo
+setelah itu bisa membuat file baru atau upload file
+filenya bisa file apa saja
+dana lakukan perubahan dengan menggunakan tombol edit disebelah kanan dengan simbol pena
